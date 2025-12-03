@@ -27,46 +27,86 @@
 
 - ## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
 
+---
+
 - ### 🎫 if
+La sentencia if simple permite ejecutar un bloque de instrucciones solo cuando una condición lógica se cumple. Si la condición es falsa, el programa continúa su ejecución sin realizar ninguna acción adicional asociada al if [1], [3].
+
+---
 
 - ### 🎫 if-else
 
+---
+
 - ### 🎫 switch case
+
+---
 
 - ### 🎫 Anidamiento de estructuras condicionales
 
+---
 
 - ## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
 
+---
+
 - ### 🎟️ while
+
+---
 
 - ### 🎟️ do...while
 
+---
+
 - ### 🎟️ for
+
+---
 
 - ### 🎟️ Anidamiento de estructuras repetitivas
 
-- ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (Java o Python).**  
+---
+
+- ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (Java o Python).**
+
+---
 
 - ### 🔸Descripción del problema  
 
+---
+
 - ### 🔸Diagrama de flujo simplificado  
 
+---
+
 - ### 🔸Programa  
-  
+
+---
+
 - ### 🔸Verificación  
+
+---
 
 ## 🔹 **Principales dificultades en la aplicación de los contenidos**  
 
+---
 
 ## 🔹 **Reflexión crítica de los aprendizajes de la unidad**  
 
+---
 
 ## 📦 Tareas Entregadas  
 
+---
+
 ### 🏠Aprendizaje Autónomo (AA)  
+
+---
+
 - ✅ [**AA1: Diferencias entre tipos de estructuras condicionales**](https://drive.google.com/file/d/1hR10PXmLpH3mXsA7WaJdDxKocgz4XCft/view?usp=sharing)  
 - ✅ [**AA2: Estructuras algorítmicas de control**](https://drive.google.com/file/d/1VRzeayROfxj-JrlATHLxD7n6hMBdvhmX/view?usp=sharing)  
+
+---
+
 ### 🪴Aprendizaje Practico Experimental (APE)  
 - ✅ [**APE1: Aplicación de estructuras condicionales en la resolución de problemas.**](https://drive.google.com/file/d/1Rz85MmNwuCmvIG2LT5qjja1AGYhlRgCe/view?usp=sharing)  
 - ✅ [**APE2:**]()
