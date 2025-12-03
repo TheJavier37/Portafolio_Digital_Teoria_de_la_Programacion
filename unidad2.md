@@ -16,7 +16,10 @@
   - [🔸Verificación](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#verificaci%C3%B3n)  
 - [🔹Principales dificultades en la aplicación de los contenidos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)  
 - [🔹Reflexión crítica de los aprendizajes de la unidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-reflexi%C3%B3n-cr%C3%ADtica-de-los-aprendizajes-de-la-unidad)  
-- [📦 Tareas Entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-tareas-entregadas)  
+- [📦 Tareas Entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-tareas-entregadas)
+  -[Aprendizaje Autónomo]()
+  -[Aprendizaje Practico Experimental]()
+ 
 ---
 
 ## 📑 Tabla de ilustraciones
@@ -45,10 +48,10 @@
 ## 📦 Tareas Entregadas  
 
   [Ver carpeta anexa en Google Drive]()
-### AA
+### Aprendizaje Autónomo (AA)
 - ✅ [** **]()
 - ✅ [** **]()
-### APE
+### Aprendizaje Practico Experimental (APE)
 - ✅ [** **]()
 - ✅ [** **]()
 
