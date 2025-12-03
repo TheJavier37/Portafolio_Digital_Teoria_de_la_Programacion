@@ -38,15 +38,17 @@
 ---
 
 - ### 🎫 if
-La sentencia if simple permite ejecutar un bloque de instrucciones solo cuando una condición lógica se cumple. Si la condición es falsa, el programa continúa su ejecución sin realizar ninguna acción adicional asociada al if [1], [3].
+La sentencia if simple permite ejecutar un bloque de instrucciones solo cuando una condición lógica se cumple. Si la condición es falsa, el programa continúa su ejecución sin realizar ninguna acción adicional asociada al if.
 
 ---
 
 - ### 🎫 if-else
+La estructura IF–ELSE permite ejecutar una acción cuando la condición es verdadera y una acción alternativa cuando es falsa. Si la condición se cumple, se ejecuta el bloque del IF; en caso contrario, se ejecuta el bloque del ELSE.
 
 ---
 
 - ### 🎫 switch case
+La estructura condicional switch permite evaluar el valor de una variable y ejecutar diferentes bloques de instrucciones según el caso que coincida con ese valor. Cada caso representa una posible opción, y si ninguno coincide, puede definirse un bloque default que se ejecuta como alternativa por defecto.
 
 ---
 
