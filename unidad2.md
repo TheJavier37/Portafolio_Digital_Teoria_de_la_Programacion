@@ -22,27 +22,44 @@
  
 ---
 
-## 📑 Tabla de ilustraciones
+## 📑 Tabla de ilustraciones  
 ---
 
 - ## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
-  
+
+- ### 🎫 if
+
+- ### 🎫 if-else
+
+- ### 🎫 switch case
+
+- ### 🎫 Anidamiento de estructuras condicionales
+
+
 - ## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
 
-- ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (Java o Python).**
+- ### 🎟️ while
 
-- ### 🔸Descripción del problema
+- ### 🎟️ do...while
 
-- ### 🔸Diagrama de flujo simplificado
+- ### 🎟️ for
 
-- ### 🔸Programa
+- ### 🎟️ Anidamiento de estructuras repetitivas
+
+- ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (Java o Python).**  
+
+- ### 🔸Descripción del problema  
+
+- ### 🔸Diagrama de flujo simplificado  
+
+- ### 🔸Programa  
   
-- ### 🔸Verificación
+- ### 🔸Verificación  
 
-## 🔹 **Principales dificultades en la aplicación de los contenidos**
+## 🔹 **Principales dificultades en la aplicación de los contenidos**  
 
 
-## 🔹 **Reflexión crítica de los aprendizajes de la unidad**
+## 🔹 **Reflexión crítica de los aprendizajes de la unidad**  
 
 
 ## 📦 Tareas Entregadas  
