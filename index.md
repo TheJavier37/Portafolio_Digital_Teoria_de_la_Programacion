@@ -28,8 +28,8 @@ _Introducción a los conceptos básicos y primeras aproximaciones a la lógica d
 ---
 
 ## 📂 Unidad 2  
-_Por ver._  
-
+_Estructuras condicionales y bucles repetitivos en C, Pyhton y Java._  
+## [Ir a la Unidad 2](unidad2.md)  
 ---
 
 ## 📂 Unidad 3  
