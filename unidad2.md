@@ -48,10 +48,10 @@
 ## 📦 Tareas Entregadas  
 
 ### 🏠Aprendizaje Autónomo (AA)  
-- ✅ [**AA1:Diferencias entre tipos de estructuras condicionales**](https://drive.google.com/file/d/1hR10PXmLpH3mXsA7WaJdDxKocgz4XCft/view?usp=sharing)  
-- ✅ [**AA2:Estructuras algorítmicas de control**](https://drive.google.com/file/d/1VRzeayROfxj-JrlATHLxD7n6hMBdvhmX/view?usp=sharing)  
+- ✅ [**AA1: Diferencias entre tipos de estructuras condicionales**](https://drive.google.com/file/d/1hR10PXmLpH3mXsA7WaJdDxKocgz4XCft/view?usp=sharing)  
+- ✅ [**AA2: Estructuras algorítmicas de control**](https://drive.google.com/file/d/1VRzeayROfxj-JrlATHLxD7n6hMBdvhmX/view?usp=sharing)  
 ### 🪴Aprendizaje Practico Experimental (APE)  
-- ✅ [**APE1:Aplicación de estructuras condicionales en la resolución de problemas.**](https://drive.google.com/file/d/1Rz85MmNwuCmvIG2LT5qjja1AGYhlRgCe/view?usp=sharing)  
-- ✅ [**APE2: **]()
+- ✅ [**APE1: Aplicación de estructuras condicionales en la resolución de problemas.**](https://drive.google.com/file/d/1Rz85MmNwuCmvIG2LT5qjja1AGYhlRgCe/view?usp=sharing)  
+- ✅ [**APE2:**]()
 
 
