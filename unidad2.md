@@ -136,11 +136,15 @@ for (inicializacion; condicion; incremento) {
 
 ---
 
-- ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (Java o Python).**
+- ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (en Python).**
 
 ---
 
 - ### 🔸Descripción del problema  
+📝El programa solicita al usuario ingresar un número entero positivo y, a partir de dicho valor, determina todos los números primos comprendidos desde el 2 hasta el número ingresado.  
+📝Para lograrlo, se emplean dos funciones: una encargada de verificar si un número es primo evaluando sus posibles divisores, y otra que construye la lista de números primos dentro del rango definido.  
+📝El programa incorpora validaciones que impiden el ingreso de valores negativos, iguales a 0 o 1, así como entradas no numéricas, garantizando que la ejecución continúe únicamente con un dato correcto.  
+📝Finalmente, el programa muestra en pantalla la lista de todos los números primos encontrados entre 2 y el valor límite proporcionado por el usuario.  
 
 ---
 
@@ -148,8 +152,34 @@ for (inicializacion; condicion; incremento) {
 
 ---
 
-- ### 🔸Programa  
+- ### 🔸Programa
+```
+def numero_primo(num):
+    for i in range(2, num - 1):
+        if num % i == 0:
+            return False
+    return True
 
+def primos_hasta(num):
+    primos = []
+    for i in range(2, num + 1):
+        if numero_primo(i):
+            primos.append(i)
+    return primos
+
+while True:
+    try:
+        n = int(input("Ingrese un número entero positivo: "))
+        if n <= 1:
+            print("Error: Debe ingresar un número mayor que 1.\n")
+        else:
+            break
+    except ValueError:
+        print("Error: Debe ingresar un número entero válido.\n")
+
+resultado = primos_hasta(n)
+print("Números primos encontrados:", resultado)
+```
 ---
 
 - ### 🔸Verificación  
