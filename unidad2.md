@@ -10,13 +10,11 @@
 - [🔹Estructuras condicionales](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-estructuras-condicionales-tipos-y-ejercicios-en-diagrama-de-flujo-y-en-c)  
   - [🎫 if](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-if)  
   - [🎫 if-else](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-if-else)  
-  - [🎫 switch case](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-switch-case)  
-  - [🎫 Anidamiento de estructuras condicionales](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-anidamiento-de-estructuras-condicionales)  
+  - [🎫 switch case](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-switch-case)   
 - [🔹Estructuras repetitivas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-estructuras-repetitivas-tipos-y-ejercicios-en-diagrama-de-flujo-y-en-c)  
   - [🎟️ while]()  
   - [🎟️ do...while]()  
   - [🎟️ for]()  
-  - [🎟️ Anidamiento de estructuras repetitivas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#%EF%B8%8F-anidamiento-de-estructuras-repetitivas)  
 - [🔹Ejercicio combinando](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#-ejercicio-combinando-estructura-condicional-y-repetitiva-java-o-python)
   - [🔸Descripción del problema](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#descripci%C3%B3n-del-problema)  
   - [🔸Diagrama de flujo simplificado](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#diagrama-de-flujo-simplificado)  
@@ -52,10 +50,6 @@ La estructura condicional switch permite evaluar el valor de una variable y ejec
 
 ---
 
-- ### 🎫 Anidamiento de estructuras condicionales
-
----
-
 - ## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
 
 ---
@@ -70,9 +64,6 @@ La estructura condicional switch permite evaluar el valor de una variable y ejec
 
 - ### 🎟️ for
 
----
-
-- ### 🎟️ Anidamiento de estructuras repetitivas
 
 ---
 
