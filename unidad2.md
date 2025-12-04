@@ -55,14 +55,17 @@ La estructura condicional switch permite evaluar el valor de una variable y ejec
 ---
 
 - ### 🎟️ while
+Bucle controlado por condición evaluada antes de ejecutar el cuerpo. Útil cuando no se sabe cuántas veces se repetirá y la ejecución depende de una condición que puede cambiar dentro del bucle. Puede no ejecutarse ninguna vez si la condición es falsa desde el inicio.
 
 ---
 
 - ### 🎟️ do...while
+Similar a como funciona el bucle while, pero la condición se evalúa después del cuerpo: garantiza que el cuerpo se ejecute al menos una vez. Útil para menús o lectura/validación donde quieres ejecutar la acción antes de comprobar la condición
 
 ---
 
 - ### 🎟️ for
+Bucle que se inicializa una variable que actúa como contador, luego se verifica una condición que decide si el ciclo continúa o se detiene, y al final de cada repetición se actualiza el contador. Este proceso se repite automáticamente mientras la condición sea verdadera, lo que permite ejecutar tareas de forma ordenada y controlada cuando ya sabemos cuántas veces deben repetirse.
 
 
 ---
