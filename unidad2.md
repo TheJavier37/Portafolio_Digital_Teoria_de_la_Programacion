@@ -121,7 +121,7 @@ do {
 ```
 #### Fig 5: Diagrama de flujo del bucle do...while
 <p align="center">
-<img width="395" height="359" alt="image" src="https://github.com/user-attachments/assets/4cc28ca5-0c6b-4d5d-9bd2-435fb5537107" />
+<img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/4cc28ca5-0c6b-4d5d-9bd2-435fb5537107" />
 </p>
 
 ---
@@ -135,7 +135,7 @@ for (inicializacion; condicion; incremento) {
 ```
 #### Fig 6: Diagrama de flujo del bucle for
 <p align="center">
-<img width="354" height="368" alt="image" src="https://github.com/user-attachments/assets/042de146-751e-4683-9be9-9728f0f103ec" />
+<img width="284" height="298" alt="image" src="https://github.com/user-attachments/assets/042de146-751e-4683-9be9-9728f0f103ec" />
 </p>
 
 ---
