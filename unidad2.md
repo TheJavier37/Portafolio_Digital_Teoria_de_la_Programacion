@@ -33,8 +33,6 @@
 
 - ## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
 
----
-
 - ### 🎫 if
 La sentencia if simple permite ejecutar un bloque de instrucciones solo cuando una condición lógica se cumple. Si la condición es falsa, el programa continúa su ejecución sin realizar ninguna acción adicional asociada al if.
 ```
@@ -96,8 +94,6 @@ switch (variable) {
 ---
 
 - ## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
-
----
 
 - ### 🎟️ while
 Bucle controlado por condición evaluada antes de ejecutar el cuerpo. Útil cuando no se sabe cuántas veces se repetirá y la ejecución depende de una condición que puede cambiar dentro del bucle. Puede no ejecutarse ninguna vez si la condición es falsa desde el inicio.
