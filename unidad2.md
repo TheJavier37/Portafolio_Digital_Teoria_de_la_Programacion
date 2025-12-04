@@ -106,7 +106,10 @@ while (condicion) {
     // instrucciones mientras la condición sea verdadera
 }
 ```
-#### Fig 4:
+#### Fig 4: Diagrama de flujo del bucle while
+<p align="center">
+<img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/20534b01-eb1b-4ca7-85cc-3d03f3512893" />
+</p>
 ---
 
 - ### 🎟️ do...while
@@ -116,7 +119,11 @@ do {
     // instrucciones que se ejecutan al menos una vez
 } while (condicion);
 ```
-#### Fig 5:
+#### Fig 5: Diagrama de flujo del bucle do...while
+<p align="center">
+<img width="395" height="359" alt="image" src="https://github.com/user-attachments/assets/4cc28ca5-0c6b-4d5d-9bd2-435fb5537107" />
+</p>
+
 ---
 
 - ### 🎟️ for
@@ -126,7 +133,11 @@ for (inicializacion; condicion; incremento) {
     // instrucciones durante cada iteración
 }
 ```
-#### Fig 6:
+#### Fig 6: Diagrama de flujo del bucle for
+<p align="center">
+<img width="354" height="368" alt="image" src="https://github.com/user-attachments/assets/042de146-751e-4683-9be9-9728f0f103ec" />
+</p>
+
 ---
 
 - ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (Java o Python).**
