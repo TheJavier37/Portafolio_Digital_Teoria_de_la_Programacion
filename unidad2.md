@@ -113,6 +113,6 @@ Bucle que se inicializa una variable que actúa como contador, luego se verifica
 
 ### 🪴Aprendizaje Practico Experimental (APE)  
 - ✅ [**APE1: Aplicación de estructuras condicionales en la resolución de problemas.**](https://drive.google.com/file/d/1Rz85MmNwuCmvIG2LT5qjja1AGYhlRgCe/view?usp=sharing)  
-- ✅ [**APE2:Aplicación de estructuras repetitivas en la resolución de problemas.**](https://drive.google.com/file/d/1wLpDa8fjcs1jNbiyBvjb7cGWvNYPb2HK/view?usp=sharing)  
+- ✅ [**APE2:Aplicación de estructuras repetitivas en la resolución de problemas.**](https://drive.google.com/file/d/1tDZzRGKZr2WPxio06r0gVymwtDkAxUTE/view?usp=drive_link)  
 
 
