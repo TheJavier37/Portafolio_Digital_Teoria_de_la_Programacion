@@ -90,7 +90,7 @@ switch (variable) {
 ```
 #### Fig 3: Diagrama de flujo del condicional switch case
 <p align="center">
-<img width="975" height="366" alt="image" src="https://github.com/user-attachments/assets/6fd0fcc4-694a-46cd-afed-bc47cee14b63" />
+<img width="487" height="158" alt="image" src="https://github.com/user-attachments/assets/6fd0fcc4-694a-46cd-afed-bc47cee14b63" />
 </p>
 
 ---
