@@ -43,8 +43,15 @@ _Síntesis de aprendizajes, logros alcanzados y retos identificados durante el p
 ---
 
 ## 📚 Referencias  
-_Las referencias que me ayudaron a lo largo de este portafolio, se encuentran aquí_
+_Las referencias que me ayudaron a lo largo de este portafolio, se encuentran aquí_  
+
 [1] Arteaga Martínez M. M. (2023). Lógica de programación con Pseint. Enfoque práctico (Primera edición). Fondo Editorial Remington. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f 
+
+[2]       H. Delgado, “Operadores condicionales en C - if, else, elseif y switch.” Accessed: Nov. 18, 2025. [Online]. Available: https://disenowebakus.net/condicionales.php
+
+[3]       M. Cuartas, “Estructuras de control - Curso de C.” Accessed: Nov. 18, 2025. [Online]. Available: http://cuartas.es/c/estructuras-control/
+
+[4]         E. N. Figueroa Piscoya, I. Maldonado Ramirez, and R. C. Santa Cruz Acosta, Fundamentos de programación: Un enfoque práctico. Biblioteca Nacional del Perú, 2021. [Online]. Available: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACIÓN_Un_enfoque_práctico
 
 ---
 
