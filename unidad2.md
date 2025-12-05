@@ -149,7 +149,9 @@ for (inicializacion; condicion; incremento) {
 ---
 
 - ### 🔸Diagrama de flujo simplificado  
-
+<p align="center">
+<img width="675" height="1966" alt="Untitled diagram-2025-12-04-233013" src="https://github.com/user-attachments/assets/34f3c060-7f76-42e7-a0f3-7f8f05b0661f" />
+</p>
 ---
 
 - ### 🔸Programa
