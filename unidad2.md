@@ -224,9 +224,14 @@ print("Números primos encontrados:", resultado)
 
 ## 🔹 **Principales dificultades en la aplicación de los contenidos**  
 
+👁️ Uno de los mayores retos fue unificar todos los conceptos en un ejercicio completo: funciones que verifican primos, ciclos que generan listas, validaciones y manejo de errores. Coordinar el flujo lógico general sin perder claridad requirió práctica y revisión del funcionamiento de cada parte.
 ---
 
 ## 🔹 **Reflexión crítica de los aprendizajes de la unidad**  
+
+📖 El trabajo con las estructuras condicionales y repetitivas en C permitió consolidar una comprensión sólida sobre cómo controlar el flujo de un programa de manera eficiente y ordenada. Implementar if, if-else, switch, while, do…while y for fortaleció la capacidad de seleccionar la estructura adecuada para cada situación, logrando algoritmos más claros, predecibles y bien organizados. La combinación entre diagramas de flujo y código en C facilitó visualizar la lógica antes de escribirla, haciendo que la transición del diseño a la implementación sea cada vez más natural.
+
+🧠 Además, el desarrollo del ejercicio integrador reforzó la habilidad de dividir un problema en partes más pequeñas, reutilizar funcionalidades mediante funciones y aplicar validaciones para guiar al usuario hacia una ejecución correcta. Este proceso permitió comprender cómo las estructuras del lenguaje C se conectan para formar programas completos, coherentes y eficientes. En conjunto, la unidad fortaleció la confianza para resolver problemas mediante programación estructurada, demostrando que el dominio progresivo de C abre la puerta a soluciones más profesionales y rigurosas.
 
 ---
 
