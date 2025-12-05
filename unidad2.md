@@ -148,7 +148,8 @@ for (inicializacion; condicion; incremento) {
 
 ---
 
-- ### 🔸Diagrama de flujo simplificado  
+- ### 🔸Diagrama de flujo simplificado
+#### Fig 7: Diagrama de Flujo del ejercicion planteado en Python
 <p align="center">
 <img width="675" height="1966" alt="Untitled diagram-2025-12-04-233013" src="https://github.com/user-attachments/assets/34f3c060-7f76-42e7-a0f3-7f8f05b0661f" />
 </p>
@@ -184,7 +185,25 @@ print("Números primos encontrados:", resultado)
 ```
 ---
 
-- ### 🔸Verificación  
+- ### 🔸Verificación
+#### Fig 8: Caso de Prueba en el que se ingresa un numero entero positivo
+<p align="center">
+<img width="673" height="50" alt="image" src="https://github.com/user-attachments/assets/63d19e6b-ff7a-4a7c-8b84-fc5abfa7cd19" />
+
+#### Fig 9: Caso de Prueba en el que se ingresa un numero negativo
+<p align="center">
+<img width="413" height="53" alt="image" src="https://github.com/user-attachments/assets/efc8e654-b517-4972-92c2-1b67204f1cdb" />
+</p>
+
+#### Fig 10: Caso de Prueba en el que se inserta un dato tipo char
+<p align="center">
+<img width="422" height="48" alt="image" src="https://github.com/user-attachments/assets/e80efc4a-1f51-45c1-920f-0fc9e98c314c" />
+</p>
+
+#### Fig 11: Caso de Prueba en el que se inserta un dato tipo float
+<p align="center">
+<img width="420" height="45" alt="image" src="https://github.com/user-attachments/assets/e033527c-461c-4ca8-a235-e44b22b6d565" />
+</p>
 
 ---
 
