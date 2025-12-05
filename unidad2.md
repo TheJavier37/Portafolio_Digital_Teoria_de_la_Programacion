@@ -91,6 +91,10 @@ int main(){
 }
 ```
 
+<p align="center">
+<img width="540" height="475" alt="image" src="https://github.com/user-attachments/assets/5b942be9-b887-4f34-9ceb-c85fd502c3cb" />
+</p>
+
 ---
 
 - ### 🎫 if-else
@@ -130,6 +134,11 @@ int main(){
 
 }
 ```
+
+<p align="center">
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f3f39ff6-3794-4aac-b639-74a43804872d" />
+</p>
+
 ---
 
 - ### 🎫 switch case
@@ -209,6 +218,10 @@ int main(){
 }
 ```
 
+<p align="center">
+<img width="1760" height="461" alt="image" src="https://github.com/user-attachments/assets/3385227c-dcbc-4c4d-8aa0-a5d0fc329237" />
+</p>
+
 ---
 
 - ## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
@@ -248,6 +261,11 @@ int main(){
     return 0;
 }
 ```
+
+<p align="center">
+<img width="350" height="475" alt="image" src="https://github.com/user-attachments/assets/d0ced023-9dd8-49fc-84a4-30af6ac8bdc8" />
+</p>
+
 ---
 
 - ### 🎟️ do...while
@@ -287,6 +305,11 @@ int main(){
     return 0;
 }
 ```
+
+<p align="center">
+<img width="560" height="475" alt="image" src="https://github.com/user-attachments/assets/c433c5b3-5df8-44ee-bd38-5f176a04e01c" />
+</p>
+
 ---
 
 - ### 🎟️ for
@@ -321,6 +344,11 @@ int main(){
     return 0;
 }
 ```
+
+<p align="center">
+<img width="690" height="475" alt="image" src="https://github.com/user-attachments/assets/7a47fcbf-4802-4e63-8f39-162993f133c4" />
+</p>
+
 ---
 
 - ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (en Python).**
