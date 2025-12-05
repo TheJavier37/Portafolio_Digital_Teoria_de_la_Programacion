@@ -60,7 +60,7 @@ if (condicion) {
 <img width="393" height="245" alt="image" src="https://github.com/user-attachments/assets/aa4128a9-45c8-4015-92c1-601365cff253" />
 </p>
 
-#### Ejercicio: Detectar cual numero de los tres numeros ingresados, es el mayor numero
+#### Ejercicio: Detectar cual número de los dos numeros ingresados por el usuario es el mayor numero
 ```
 #include <stdio.h>
 
@@ -108,7 +108,7 @@ if (condicion) {
 <img width="358" height="204" alt="image" src="https://github.com/user-attachments/assets/c135ea9c-97c4-4cf9-b284-8edba893e321" />
 </p>
 
-#### Ejercicio: Verificar si el numero ingresado es múltiplo de 3
+#### Ejercicio: Verificar si el numero ingresado por el usuario es múltiplo de 3
 ```
 #include <stdio.h>
 
@@ -159,7 +159,7 @@ switch (variable) {
 <img width="487" height="158" alt="image" src="https://github.com/user-attachments/assets/6fd0fcc4-694a-46cd-afed-bc47cee14b63" />
 </p>
 
-#### Ejercicio: Mostrar el dia de la semana segun el numero ingresado del 1 al 7
+#### Ejercicio: Mostrar el dia de la semana segun el numero ingresado por usuario del 1 al 7
 ```
 #include <stdio.h>
 
@@ -225,7 +225,7 @@ while (condicion) {
 <img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/20534b01-eb1b-4ca7-85cc-3d03f3512893" />
 </p>
 
-#### Ejercicio: Sumar 10 numeros sucesivamente ingresados por el usuario
+#### Ejercicio: Sumar 10 números sucesivamente ingresados por el usuario
 ```
 #include <stdio.h>
 
@@ -262,7 +262,7 @@ do {
 <img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/4cc28ca5-0c6b-4d5d-9bd2-435fb5537107" />
 </p>
 
-#### Ejercicio: Encontrar el denominar valido del numero ingresado por el usuario
+#### Ejercicio: Encontrar el denominador válido del numero ingresado por el usuario
 ```
 #include <stdio.h>
 
@@ -301,7 +301,7 @@ for (inicializacion; condicion; incremento) {
 <img width="284" height="298" alt="image" src="https://github.com/user-attachments/assets/042de146-751e-4683-9be9-9728f0f103ec" />
 </p>
 
-#### Ejercicio: Calcular el factorial del numero ingresado por el usuario
+#### Ejercicio: Calcular el factorial del número ingresado por el usuario
 ```
 #include <stdio.h>
 
