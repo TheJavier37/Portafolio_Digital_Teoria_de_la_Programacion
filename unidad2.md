@@ -422,6 +422,6 @@ print("Números primos encontrados:", resultado)
 
 ### 🪴Aprendizaje Practico Experimental (APE)  
 - ✅ [**APE1: Aplicación de estructuras condicionales en la resolución de problemas.**](https://drive.google.com/file/d/1Rz85MmNwuCmvIG2LT5qjja1AGYhlRgCe/view?usp=sharing)  
-- ✅ [**APE2:Aplicación de estructuras repetitivas en la resolución de problemas.**](https://drive.google.com/file/d/1tDZzRGKZr2WPxio06r0gVymwtDkAxUTE/view?usp=drive_link)  
+- ✅ [**APE2:Aplicación de estructuras repetitivas en la resolución de problemas.**](https://drive.google.com/file/d/1vtIfIIOYT4YPw6Ep0WKzO7BH3j1FeoY2/view?usp=sharing)  
 
 
