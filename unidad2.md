@@ -60,6 +60,37 @@ if (condicion) {
 <img width="393" height="245" alt="image" src="https://github.com/user-attachments/assets/aa4128a9-45c8-4015-92c1-601365cff253" />
 </p>
 
+#### Ejercicio: Detectar cual numero de los tres numeros ingresados, es el mayor numero
+```
+#include <stdio.h>
+
+int main(){
+
+    float numero1, numero2;
+
+    printf("Ingrese el primer numero\n");
+    scanf("%f", &numero1);
+    printf("Ingrese el segundo numero\n");
+    scanf("%f", &numero2);
+    getchar();
+    
+    if(numero1 > numero2){
+        printf("El primer numero %.2f es mayor que %.2f", numero1, numero2);
+    }
+
+    if(numero1 < numero2){
+        printf("El primer numero %.2f es menor que %.2f", numero1, numero2);
+    }
+
+    if(numero1 == numero2){
+        printf("Los numeros %.2f y %.2f son iguales", numero1, numero2);
+    }
+
+    return 0;
+
+}
+```
+
 ---
 
 - ### 🎫 if-else
@@ -77,6 +108,28 @@ if (condicion) {
 <img width="358" height="204" alt="image" src="https://github.com/user-attachments/assets/c135ea9c-97c4-4cf9-b284-8edba893e321" />
 </p>
 
+#### Ejercicio: Verificar si el numero ingresado es múltiplo de 3
+```
+#include <stdio.h>
+
+int main(){
+
+    int numero;
+
+    printf("Ingrese un numero\n");
+    scanf("%i", &numero);
+    getchar();
+    
+    if(numero % 3 == 0 ){
+        printf("El numero %i es multiplo de tres", numero);
+    }else{
+        printf("El numero %i no es multiplo de tres", numero);
+    }
+
+    return 0;
+
+}
+```
 ---
 
 - ### 🎫 switch case
@@ -106,6 +159,56 @@ switch (variable) {
 <img width="487" height="158" alt="image" src="https://github.com/user-attachments/assets/6fd0fcc4-694a-46cd-afed-bc47cee14b63" />
 </p>
 
+#### Ejercicio: Mostrar el dia de la semana segun el numero ingresado del 1 al 7
+```
+#include <stdio.h>
+
+int main(){
+
+    int dia;
+    printf("Ingrese el dia de la semana en numero del 1 al 7\n");
+    scanf("%i", &dia);
+    getchar();
+
+    switch(dia){
+
+        case 1:
+            printf("Es lunes\n");
+            break;
+
+        case 2:
+            printf("Es martes\n");
+            break;
+        
+        case 3:
+            printf("Es miercoles\n");
+            break;
+
+        case 4:
+            printf("Es jueves\n");
+            break;
+        
+        case 5:
+            printf("Es viernes\n");
+            break;
+
+        case 6:
+            printf("Es sabado\n");
+            break;
+
+        case 7:
+            printf("Es domingo\n");
+            break;
+
+        default: 
+            printf("Por favor ingrese un numero valido");
+            break;
+    }
+
+    return 0;
+}
+```
+
 ---
 
 - ## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
@@ -121,6 +224,30 @@ while (condicion) {
 <p align="center">
 <img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/20534b01-eb1b-4ca7-85cc-3d03f3512893" />
 </p>
+
+#### Ejercicio: Sumar 10 numeros sucesivamente ingresados por el usuario
+```
+#include <stdio.h>
+
+int main(){
+
+    int valor = 0;
+    int suma = 0;
+    int orden = 1;
+
+    while (orden <= 10){
+        printf("Ingrese un valor a sumar\n");
+        scanf("%i", &valor);
+
+        suma = suma + valor;
+        orden = orden + 1;
+    }
+
+    printf("El valor sumado es %i", suma);
+
+    return 0;
+}
+```
 ---
 
 - ### 🎟️ do...while
@@ -135,6 +262,31 @@ do {
 <img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/4cc28ca5-0c6b-4d5d-9bd2-435fb5537107" />
 </p>
 
+#### Ejercicio: Encontrar el denominar valido del numero ingresado por el usuario
+```
+#include <stdio.h>
+
+int main(){
+
+    float numerador, denominador;
+    float coeficiente;
+
+    printf("Ingrese el numerador\n");
+    scanf("%f", &numerador);
+
+    do{
+        printf("Ingrese un denominador valido\n");
+        scanf("%f", &denominador);
+
+    }while (denominador == 0 );
+
+    coeficiente = numerador / denominador;
+
+    printf("Su coeficiente es igual a %.2f", coeficiente);
+
+    return 0;
+}
+```
 ---
 
 - ### 🎟️ for
@@ -149,6 +301,26 @@ for (inicializacion; condicion; incremento) {
 <img width="284" height="298" alt="image" src="https://github.com/user-attachments/assets/042de146-751e-4683-9be9-9728f0f103ec" />
 </p>
 
+#### Ejercicio: Calcular el factorial del numero ingresado por el usuario
+```
+#include <stdio.h>
+
+int main(){
+
+    long long int factorial, resultado = 1, i;
+
+    printf("Ingrese un numero para convertilo a factorial\n");
+    scanf("%llx", &factorial);
+
+    for(i = 1; i <= factorial; i++){
+        resultado = resultado * i;
+    }
+
+    printf("El factorial de su numero ingresado %llx es igual a: %llx", factorial, resultado);
+
+    return 0;
+}
+```
 ---
 
 - ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (en Python).**
