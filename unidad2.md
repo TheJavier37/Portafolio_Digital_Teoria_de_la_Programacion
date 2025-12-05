@@ -31,6 +31,21 @@
 ## 📑 Tabla de ilustraciones  
 ---
 
+|   Figura   | Descripción / Ilustración |
+|------------|---------------------------|
+| [Fig 1](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-1-diagrama-de-flujo-del-condicional-if-simple)  | Diagrama de flujo del condicional if simple                          |
+| [Fig 2](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-2-diagrama-de-flujo-del-condicional-if-else)  | Diagrama de flujo del condicional if-else                          |
+| [Fig 3](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-3-diagrama-de-flujo-del-condicional-switch-case)  | Diagrama de flujo del condicional switch case                          |
+| [Fig 4](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-4-diagrama-de-flujo-del-bucle-while)  | Diagrama de flujo del bucle while                          |
+| [Fig 5](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-5-diagrama-de-flujo-del-bucle-dowhile)  | Diagrama de flujo del bucle do...while                          |
+| [Fig 6](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-6-diagrama-de-flujo-del-bucle-for)  | Diagrama de flujo del bucle for                          |
+| [Fig 7](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-7-diagrama-de-flujo-del-ejercicion-planteado-en-python)  | Diagrama de Flujo del ejercicio planteado en Python                          |
+| [Fig 8](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-8-caso-de-prueba-en-el-que-se-ingresa-un-numero-entero-positivo)  | Caso de Prueba en el que se ingresa un numero entero positivo                          |
+| [Fig 9](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-9-caso-de-prueba-en-el-que-se-ingresa-un-numero-negativo)  | Caso de Prueba en el que se ingresa un numero negativo                          |
+| [Fig 10](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-10-caso-de-prueba-en-el-que-se-inserta-un-dato-tipo-char) | Fig 10: Caso de Prueba en el que se inserta un dato tipo char                          |
+| [Fig 11](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-11-caso-de-prueba-en-el-que-se-inserta-un-dato-tipo-float) | Fig 11: Caso de Prueba en el que se inserta un dato tipo float                          |
+
+
 - ## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
 
 - ### 🎫 if
@@ -149,7 +164,7 @@ for (inicializacion; condicion; incremento) {
 ---
 
 - ### 🔸Diagrama de flujo simplificado
-#### Fig 7: Diagrama de Flujo del ejercicion planteado en Python
+#### Fig 7: Diagrama de Flujo del ejercicio planteado en Python
 <p align="center">
 <img width="675" height="1966" alt="Untitled diagram-2025-12-04-233013" src="https://github.com/user-attachments/assets/34f3c060-7f76-42e7-a0f3-7f8f05b0661f" />
 </p>
