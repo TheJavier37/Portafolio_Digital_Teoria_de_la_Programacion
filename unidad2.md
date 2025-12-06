@@ -60,6 +60,11 @@ if (condicion) {
 <img width="393" height="245" alt="image" src="https://github.com/user-attachments/assets/aa4128a9-45c8-4015-92c1-601365cff253" />
 </p>
 
+#### Fig 1.1: Diagrama de flujo del ejercicio práctico
+<p align="center">
+<img width="540" height="475" alt="image" src="https://github.com/user-attachments/assets/5b942be9-b887-4f34-9ceb-c85fd502c3cb" />
+</p>
+
 #### Ejercicio: Detectar cual número de los dos numeros ingresados por el usuario es el mayor numero
 ```
 #include <stdio.h>
@@ -90,11 +95,6 @@ int main(){
 
 }
 ```
-#### Fig 1.1: Diagrama de flujo del ejercico practico
-<p align="center">
-<img width="540" height="475" alt="image" src="https://github.com/user-attachments/assets/5b942be9-b887-4f34-9ceb-c85fd502c3cb" />
-</p>
-
 ---
 
 - ### 🎫 if-else
@@ -110,6 +110,11 @@ if (condicion) {
 #### Fig 2: Diagrama de flujo del condicional if-else
 <p align="center">
 <img width="358" height="204" alt="image" src="https://github.com/user-attachments/assets/c135ea9c-97c4-4cf9-b284-8edba893e321" />
+</p>
+
+#### Fig 2.1: Diagrama de flujo del ejercicio práctico
+<p align="center">
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f3f39ff6-3794-4aac-b639-74a43804872d" />
 </p>
 
 #### Ejercicio: Verificar si el numero ingresado por el usuario es múltiplo de 3
@@ -134,11 +139,6 @@ int main(){
 
 }
 ```
-#### Fig 2.1: Diagrama de flujo del ejercico practico
-<p align="center">
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/f3f39ff6-3794-4aac-b639-74a43804872d" />
-</p>
-
 ---
 
 - ### 🎫 switch case
@@ -166,6 +166,11 @@ switch (variable) {
 #### Fig 3: Diagrama de flujo del condicional switch case
 <p align="center">
 <img width="487" height="158" alt="image" src="https://github.com/user-attachments/assets/6fd0fcc4-694a-46cd-afed-bc47cee14b63" />
+</p>
+
+#### Fig 3.1: Diagrama de flujo del ejercicio práctico
+<p align="center">
+<img width="1760" height="461" alt="image" src="https://github.com/user-attachments/assets/3385227c-dcbc-4c4d-8aa0-a5d0fc329237" />
 </p>
 
 #### Ejercicio: Mostrar el dia de la semana segun el numero ingresado por usuario del 1 al 7
@@ -217,10 +222,6 @@ int main(){
     return 0;
 }
 ```
-#### Fig 3.1: Diagrama de flujo del ejercico practico
-<p align="center">
-<img width="1760" height="461" alt="image" src="https://github.com/user-attachments/assets/3385227c-dcbc-4c4d-8aa0-a5d0fc329237" />
-</p>
 
 ---
 
@@ -236,6 +237,11 @@ while (condicion) {
 #### Fig 4: Diagrama de flujo del bucle while
 <p align="center">
 <img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/20534b01-eb1b-4ca7-85cc-3d03f3512893" />
+</p>
+
+#### Fig 4.1: Diagrama de flujo del ejercico práctico
+<p align="center">
+<img width="350" height="475" alt="image" src="https://github.com/user-attachments/assets/d0ced023-9dd8-49fc-84a4-30af6ac8bdc8" />
 </p>
 
 #### Ejercicio: Sumar 10 números sucesivamente ingresados por el usuario
@@ -261,11 +267,6 @@ int main(){
     return 0;
 }
 ```
-#### Fig 4.1: Diagrama de flujo del ejercico practico
-<p align="center">
-<img width="350" height="475" alt="image" src="https://github.com/user-attachments/assets/d0ced023-9dd8-49fc-84a4-30af6ac8bdc8" />
-</p>
-
 ---
 
 - ### 🎟️ do...while
@@ -278,6 +279,11 @@ do {
 #### Fig 5: Diagrama de flujo del bucle do...while
 <p align="center">
 <img width="232" height="204" alt="image" src="https://github.com/user-attachments/assets/4cc28ca5-0c6b-4d5d-9bd2-435fb5537107" />
+</p>
+
+#### Fig 5.1: Diagrama de flujo del ejercicio práctico
+<p align="center">
+<img width="560" height="475" alt="image" src="https://github.com/user-attachments/assets/c433c5b3-5df8-44ee-bd38-5f176a04e01c" />
 </p>
 
 #### Ejercicio: Encontrar el denominador válido del numero ingresado por el usuario
@@ -305,11 +311,6 @@ int main(){
     return 0;
 }
 ```
-#### Fig 5.1: Diagrama de flujo del ejercico practico
-<p align="center">
-<img width="560" height="475" alt="image" src="https://github.com/user-attachments/assets/c433c5b3-5df8-44ee-bd38-5f176a04e01c" />
-</p>
-
 ---
 
 - ### 🎟️ for
@@ -323,6 +324,12 @@ for (inicializacion; condicion; incremento) {
 <p align="center">
 <img width="284" height="298" alt="image" src="https://github.com/user-attachments/assets/042de146-751e-4683-9be9-9728f0f103ec" />
 </p>
+
+#### Fig 6.1: Diagrama de flujo del ejercico práctico
+<p align="center">
+<img width="690" height="475" alt="image" src="https://github.com/user-attachments/assets/7a47fcbf-4802-4e63-8f39-162993f133c4" />
+</p>
+
 
 #### Ejercicio: Calcular el factorial del número ingresado por el usuario
 ```
@@ -344,11 +351,6 @@ int main(){
     return 0;
 }
 ```
-#### Fig 6.1: Diagrama de flujo del ejercico practico
-<p align="center">
-<img width="690" height="475" alt="image" src="https://github.com/user-attachments/assets/7a47fcbf-4802-4e63-8f39-162993f133c4" />
-</p>
-
 ---
 
 - ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (en Python).**
