@@ -428,6 +428,7 @@ print("Números primos encontrados:", resultado)
 ## 🔹 **Principales dificultades en la aplicación de los contenidos**  
 
 👁️ Uno de los mayores retos fue unificar todos los conceptos en un ejercicio completo: funciones que verifican primos, ciclos que generan listas, validaciones y manejo de errores. Coordinar el flujo lógico general sin perder claridad requirió práctica y revisión del funcionamiento de cada parte.
+
 ---
 
 ## 🔹 **Reflexión crítica de los aprendizajes de la unidad**  
@@ -443,8 +444,6 @@ print("Números primos encontrados:", resultado)
 ---
 
 ### 🏠Aprendizaje Autónomo (AA)  
-
----
 
 - ✅ [**AA1: Diferencias entre tipos de estructuras condicionales**](https://drive.google.com/file/d/1hR10PXmLpH3mXsA7WaJdDxKocgz4XCft/view?usp=sharing)  
 - ✅ [**AA2: Estructuras algorítmicas de control**](https://drive.google.com/file/d/1VRzeayROfxj-JrlATHLxD7n6hMBdvhmX/view?usp=sharing)  
