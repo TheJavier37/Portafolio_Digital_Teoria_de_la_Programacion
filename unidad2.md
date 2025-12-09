@@ -283,7 +283,8 @@ do {
 
 #### Fig 5.1: Diagrama de flujo del ejercicio práctico
 <p align="center">
-<img width="560" height="475" alt="image" src="https://github.com/user-attachments/assets/66be9653-5adc-4796-9b80-bab1c89cd134" />
+<img width="560" height="475" alt="image" src="https://github.com/user-attachments/assets/46f7b4b9-8013-40b8-8792-addca0def9d6" />
+
 </p>
 
 #### Ejercicio: Encontrar el denominador válido del numero ingresado por el usuario
