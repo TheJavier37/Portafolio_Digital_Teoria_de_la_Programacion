@@ -339,11 +339,15 @@ En el caso del lenguaje C, es posible incorporar librerías como `<math.h>`:
 
 ## 📦 Tareas Entregadas  
 
-  [Ver carpeta anexa en Google Drive](https://drive.google.com/drive/folders/1EAlcNmdeaoR149M--ErCMMkSaYjXdxC9?usp=drive_link)
+### 🏠Aprendizaje Autónomo (AA) 
 
 - ✅ [**Herramientas de algoritmos pseudocódigo y diagramas de flujo.**](https://drive.google.com/file/d/1wBt0-2Ah3Y76bVljBQoWlFLlCFKzAuH5/view?usp=drive_link)
 
 - ✅ [**Instalación de lenguajes de programación C, Python O Java**](https://drive.google.com/file/d/1uaWcAsCyvvOP086kpPDHnt4uqGEkFTaV/view?usp=drive_link)
+
+---
+
+### 🪴Aprendizaje Practico Experimental (APE)  
 
 - ✅ [**Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo**](https://drive.google.com/file/d/1NT37vXMcmn19QwDL6oiBPAuYsMcLaCsC/view?usp=sharing)
 
