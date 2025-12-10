@@ -369,37 +369,51 @@ int main(){
 - ### 🔸Diagrama de flujo simplificado
 #### Fig 7: Diagrama de Flujo del ejercicio planteado en Python
 <p align="center">
-<img width="675" height="1966" alt="Untitled diagram-2025-12-04-233013" src="https://github.com/user-attachments/assets/34f3c060-7f76-42e7-a0f3-7f8f05b0661f" />
+<img width="1308" height="2168" alt="DIAGRAMARECTI" src="https://github.com/user-attachments/assets/8e4096b8-df7c-43a1-ba5f-5c24c35db242" />
 </p>
 ---
 
 - ### 🔸Programa
 ```
-def numero_primo(num):
-    for i in range(2, num - 1):
-        if num % i == 0:
-            return False
-    return True
+n = 0
 
-def primos_hasta(num):
-    primos = []
-    for i in range(2, num + 1):
-        if numero_primo(i):
-            primos.append(i)
-    return primos
+while n <= 1:
+    print("Ingrese un número mayor que 1: ")
+    entrada = input()
 
-while True:
-    try:
-        n = int(input("Ingrese un número entero positivo: "))
-        if n <= 1:
-            print("Error: Debe ingresar un número mayor que 1.\n")
-        else:
+    es_numero = True
+
+    # Verificar caracter por caracter
+    for c in entrada:
+        if c < '0' or c > '9':
+            es_numero = False
             break
-    except ValueError:
-        print("Error: Debe ingresar un número entero válido.\n")
 
-resultado = primos_hasta(n)
-print("Números primos encontrados:", resultado)
+    if es_numero:
+        n = int(entrada)
+        if n <= 1:
+            print("Error: el número debe ser mayor que 1.\n")
+    else:
+        print("Error: debe ingresar un número válido.\n")
+        n = 0
+
+# Lista para guardar los primos
+primos = []
+
+# Proceso para identificar primos
+for num in range(2, n + 1):
+
+    primo = True
+
+    for i in range(2, num):
+        if num % i == 0:
+            primo = False
+            break
+
+    if primo:
+        primos.append(num)
+
+print("Números primos encontrados:", primos)
 ```
 ---
 
