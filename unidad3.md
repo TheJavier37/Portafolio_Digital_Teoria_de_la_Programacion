@@ -11,13 +11,6 @@
 -
 -
 
-## 📑 Tabla de ilustraciones  
----
-
-|   Figura   | Descripción / Ilustración |
-|------------|---------------------------|
-
-
 ---
 
 - ## 🔹 **Modularidad (teoría y un ejemplo con pase de marametro por valor y uno por referencia)**
