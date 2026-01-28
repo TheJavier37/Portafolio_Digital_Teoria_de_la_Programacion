@@ -37,7 +37,7 @@
 | [Fig 9](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-9-jugando-a-pintar-con-bloques-en-pilas-bloque)  | Jugando a pintar con bloques en pilas bloque.                                 |
 | [Fig 10](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad1.md#--fig-10-jugando-a-comer-el-filete-en-pilas-bloque) | Jugando a comer el filete en pilas bloque.                                    |
 
-- ## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
+## 🔹 **Algoritmos, pseudocódigo y diagramas de flujo**
 
   ---
   
@@ -59,7 +59,7 @@ Los algoritmos se pueden clasificar en dos grandes grupos:
 Son los que realizamos en nuestra vida diaria de forma inconsciente y constan de pasos simples.  
 
 **📌 Ejemplo:**
-``` 
+```
   Pasos para preparar leche con cocoa  
   Inicio  
   1. Verter la leche en una olla  
@@ -205,7 +205,7 @@ Primero fueron codificados en pseudocódigo para posteriormente ser adaptados al
 Este programa permite calcular el porcentaje de mujeres y de hombres ingresando la cantidad respectiva de cada uno.
 
 - 🧾 **Versión en pseudocódigo**:
-  ```
+  ```text
       Algoritmo ejercicioe
   
 	//Datos de entrada
@@ -228,7 +228,7 @@ Este programa permite calcular el porcentaje de mujeres y de hombres ingresando 
       FinAlgoritmo
 
 - 💻 **Versión en C**:
-  ```
+  ```c
   #include <stdio.h>
   
   int main() {
@@ -263,7 +263,7 @@ Este programa permite calcular el porcentaje de mujeres y de hombres ingresando 
 Este programa permite calcular el presupuesto necesario para pintar, ingresando el precio de la pintura y los metros cuadrados que se deben pintar.
 
 - 🧾 **Versión en pseudocódigo**:
-  ```
+  ```text
   Algoritmo precioPintura
 	
 	//Datos de entrada
@@ -282,7 +282,7 @@ Este programa permite calcular el presupuesto necesario para pintar, ingresando 
 	
 FinAlgoritmo
 - 💻 **Versión en C**:
-  ```
+  ```c
   #include <stdio.h>
 
   int main() {
@@ -345,12 +345,10 @@ En el caso del lenguaje C, es posible incorporar librerías como `<math.h>`:
 
 - ✅ [**Instalación de lenguajes de programación C, Python O Java**](https://drive.google.com/file/d/1uaWcAsCyvvOP086kpPDHnt4uqGEkFTaV/view?usp=drive_link)
 
----
+
 
 ### 🪴Aprendizaje Practico Experimental (APE)  
 
 - ✅ [**Primer acercamiento a la construcción de algoritmos secuenciales en pseudocódigo**](https://drive.google.com/file/d/1NT37vXMcmn19QwDL6oiBPAuYsMcLaCsC/view?usp=sharing)
 
 - ✅ [**Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**](https://drive.google.com/file/d/19sNtAG2jGCmqTEGDnyjLNr2wE8nVQBnb/view?usp=sharing)
-
-
