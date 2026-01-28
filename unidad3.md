@@ -295,8 +295,6 @@ int main() {
 
 ## 📦 Tareas Entregadas  
 
----
-
 ### 🏠Aprendizaje Autónomo (AA)  
 
 - ✅ [**AA1: Curso Python Essencials 1**](https://drive.google.com/file/d/1meeLsqiw6PQh4CAJI6I2t-HMdao5h3oq/view?usp=drive_link)   
