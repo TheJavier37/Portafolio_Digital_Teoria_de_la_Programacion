@@ -103,7 +103,7 @@ Para ello, el cálculo se realizará en una **función independiente** que no de
 
 Este enfoque permite que la función tenga la capacidad de **alterar datos externos**, demostrando el uso de **punteros en el lenguaje C** y favoreciendo una mejor organización, reutilización y claridad del código.
 
-```
+```c
 #include <stdio.h>
 
 /* Función modular con paso de referencia */
@@ -180,7 +180,7 @@ Ejemplo de posiciones:
 ### Contexto
 Se utiliza un arreglo unidimensional para almacenar y mostrar cinco calificaciones ingresadas por el usuario.
 ### Código en C
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -212,7 +212,7 @@ Se utiliza un arreglo bidimensional para representar una matriz 2x3, útil para 
 
 Código en C
 
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -244,7 +244,7 @@ int main() {
 ## 🔸Ejemplo de Arreglo Tridimensional
 ### Contexto
 Se emplea un arreglo tridimensional para almacenar datos en tres dimensiones, por ejemplo: calificaciones de 2 estudiantes, en 2 materias, con 3 evaluaciones cada una.
-```
+```c
 #include <stdio.h>
 
 int main() {
