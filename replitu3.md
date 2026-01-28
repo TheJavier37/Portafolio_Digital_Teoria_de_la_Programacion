@@ -1,4 +1,11 @@
-[Volver a Tareas entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-tareas-entregadas)
+[⬅️Volver a Tareas entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-tareas-entregadas)
+
+### Contexto del ejercicio
+
+El ejercicio plantea la simulación de un sistema de cobro para un local de videojuegos que alquila consolas por tiempo de uso. El programa solicita al usuario el número de clientes atendidos y, para cada uno, registra el tipo de consola utilizada y el tiempo de juego correspondiente.
+
+A partir de estos datos, se asigna una tarifa distinta según la consola seleccionada (PlayStation, Xbox o Nintendo), lo que permite calcular el valor a pagar por cada cliente. Mediante el uso de funciones modulares y el paso de parámetros por referencia, el programa acumula el total recaudado.
+
 ```c
 #include <stdio.h>
 
