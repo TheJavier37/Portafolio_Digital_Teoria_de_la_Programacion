@@ -281,15 +281,15 @@ int main() {
 
 ## 🔹 **Principales dificultades en la aplicación de los contenidos**  
 
-👁️ En la modularidad un diseño incorrecto de los módulos o un exceso de dependencias puede complicar el mantenimiento del programa, además de que el manejo inadecuado del paso de parámetros, especialmente entre valor y referencia, suele generar errores lógicos difíciles de detectar.
-📁 Por otro lado, en el uso de arreglos, los errores de índice, la definición incorrecta del tamaño, la falta de inicialización y la complejidad de los arreglos multidimensionales pueden provocar fallos en la ejecución y un uso ineficiente de la memoria, por lo que ambos conceptos requieren una correcta planificación y atención al detalle para aplicarse de manera efectiva.
+👁️ En la modularidad un diseño incorrecto de los módulos o un exceso de dependencias puede complicar el mantenimiento del programa, además de que el manejo inadecuado del paso de parámetros, especialmente entre valor y referencia, suele generar errores lógicos difíciles de detectar.  
+📁 Por otro lado, en el uso de arreglos, los errores de índice, la definición incorrecta del tamaño, la falta de inicialización y la complejidad de los arreglos multidimensionales pueden provocar fallos en la ejecución y un uso ineficiente de la memoria, por lo que ambos conceptos requieren una correcta planificación y atención al detalle para aplicarse de manera efectiva.  
 
 ---
 
 ## 🔹 **Reflexión crítica de los aprendizajes de la unidad**  
 
-📖 El aprendizaje sobre la programación modular y el uso de arreglos permitió comprender la importancia de organizar el código de manera estructurada y lógica, facilitando su lectura, mantenimiento y reutilización.
-🧠 Asimismo, el manejo de arreglos ayudó a entender cómo almacenar y procesar grandes cantidades de datos de forma eficiente, reforzando el cuidado en el uso de índices y memoria. En conjunto, estos conceptos fortalecen el pensamiento lógico y la capacidad de diseñar soluciones más ordenadas y escalables dentro del desarrollo de programas, como se esta aplicando en el proyecto integrador.
+📖 El aprendizaje sobre la programación modular y el uso de arreglos permitió comprender la importancia de organizar el código de manera estructurada y lógica, facilitando su lectura, mantenimiento y reutilización.  
+🧠 Asimismo, el manejo de arreglos ayudó a entender cómo almacenar y procesar grandes cantidades de datos de forma eficiente, reforzando el cuidado en el uso de índices y memoria. En conjunto, estos conceptos fortalecen el pensamiento lógico y la capacidad de diseñar soluciones más ordenadas y escalables dentro del desarrollo de programas, como se esta aplicando en el proyecto integrador.  
 
 ---
 
