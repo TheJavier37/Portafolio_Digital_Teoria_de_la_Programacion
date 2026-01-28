@@ -46,11 +46,11 @@
 | [Fig 11](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad2.md#fig-11-caso-de-prueba-en-el-que-se-inserta-un-dato-tipo-float) | Fig 11: Caso de Prueba en el que se inserta un dato tipo float                          |
 
 
-- ## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
+## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
 
-- ### 🎫 if
+### 🎫 if
 La sentencia if simple permite ejecutar un bloque de instrucciones solo cuando una condición lógica se cumple. Si la condición es falsa, el programa continúa su ejecución sin realizar ninguna acción adicional asociada al if.
-```
+```c
 if (condicion) {
     // instrucciones si la condición es verdadera
 }
@@ -66,7 +66,7 @@ if (condicion) {
 </p>
 
 #### Ejercicio: Detectar cual número de los dos numeros ingresados por el usuario es el mayor numero
-```
+```c
 #include <stdio.h>
 
 int main(){
@@ -97,10 +97,10 @@ int main(){
 ```
 ---
 
-- ### 🎫 if-else
+### 🎫 if-else
 La estructura IF–ELSE permite ejecutar una acción cuando la condición es verdadera y una acción alternativa cuando es falsa. Si la condición se cumple, se ejecuta el bloque del IF; en caso contrario, se ejecuta el bloque del ELSE.
 
-```
+```c
 if (condicion) {
     // instrucciones si la condición es verdadera
 } else {
@@ -141,10 +141,10 @@ int main(){
 ```
 ---
 
-- ### 🎫 switch case
+### 🎫 switch case
 La estructura condicional switch permite evaluar el valor de una variable y ejecutar diferentes bloques de instrucciones según el caso que coincida con ese valor. Cada caso representa una posible opción, y si ninguno coincide, puede definirse un bloque default que se ejecuta como alternativa por defecto.
 
-```
+```c
 switch (variable) {
     case valor1:
         // instrucciones para valor1
@@ -174,7 +174,7 @@ switch (variable) {
 </p>
 
 #### Ejercicio: Mostrar el dia de la semana segun el numero ingresado por usuario del 1 al 7
-```
+```c
 #include <stdio.h>
 
 int main(){
@@ -225,11 +225,11 @@ int main(){
 
 ---
 
-- ## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
+## 🔹 **Estructuras repetitivas (tipos y ejercicios en diagrama de flujo y en C)**
 
-- ### 🎟️ while
+### 🎟️ while
 Bucle controlado por condición evaluada antes de ejecutar el cuerpo. Útil cuando no se sabe cuántas veces se repetirá y la ejecución depende de una condición que puede cambiar dentro del bucle. Puede no ejecutarse ninguna vez si la condición es falsa desde el inicio.
-```
+```c
 while (condicion) {
     // instrucciones mientras la condición sea verdadera
 }
@@ -245,7 +245,7 @@ while (condicion) {
 </p>
 
 #### Ejercicio: Sumar 10 números sucesivamente ingresados por el usuario
-```
+```c
 #include <stdio.h>
 
 int main(){
@@ -269,9 +269,9 @@ int main(){
 ```
 ---
 
-- ### 🎟️ do...while
+### 🎟️ do...while
 Similar a como funciona el bucle while, pero la condición se evalúa después del cuerpo: garantiza que el cuerpo se ejecute al menos una vez. Útil para menús o lectura/validación donde quieres ejecutar la acción antes de comprobar la condición
-```
+```c
 do {
     // instrucciones que se ejecutan al menos una vez
 } while (condicion);
@@ -314,9 +314,9 @@ int main(){
 ```
 ---
 
-- ### 🎟️ for
+### 🎟️ for
 Bucle que se inicializa una variable que actúa como contador, luego se verifica una condición que decide si el ciclo continúa o se detiene, y al final de cada repetición se actualiza el contador. Este proceso se repite automáticamente mientras la condición sea verdadera, lo que permite ejecutar tareas de forma ordenada y controlada cuando ya sabemos cuántas veces deben repetirse.
-```
+```c
 for (inicializacion; condicion; incremento) {
     // instrucciones durante cada iteración
 }
@@ -333,7 +333,7 @@ for (inicializacion; condicion; incremento) {
 
 
 #### Ejercicio: Calcular el factorial del número ingresado por el usuario
-```
+```c
 #include <stdio.h>
 
 int main(){
@@ -354,11 +354,11 @@ int main(){
 ```
 ---
 
-- ## 🔹 **Ejercicio combinando estructura condicional y repetitiva (en Python).**
+## 🔹 **Ejercicio combinando estructura condicional y repetitiva (en Python).**
 
 ---
 
-- ### 🔸Descripción del problema  
+### 🔸Descripción del problema  
 📝El programa solicita al usuario ingresar un número entero positivo y, a partir de dicho valor, determina todos los números primos comprendidos desde el 2 hasta el número ingresado.  
 📝Para lograrlo, se emplean dos funciones: una encargada de verificar si un número es primo evaluando sus posibles divisores, y otra que construye la lista de números primos dentro del rango definido.  
 📝El programa incorpora validaciones que impiden el ingreso de valores negativos, iguales a 0 o 1, así como entradas no numéricas, garantizando que la ejecución continúe únicamente con un dato correcto.  
@@ -366,15 +366,15 @@ int main(){
 
 ---
 
-- ### 🔸Diagrama de flujo simplificado
+### 🔸Diagrama de flujo simplificado
 #### Fig 7: Diagrama de Flujo del ejercicio planteado en Python
 <p align="center">
 <img width="1308" height="2168" alt="DIAGRAMARECTI" src="https://github.com/user-attachments/assets/8e4096b8-df7c-43a1-ba5f-5c24c35db242" />
 </p>
 ---
 
-- ### 🔸Programa
-```
+### 🔸Programa
+```python
 n = 0
 
 while n <= 1:
@@ -417,7 +417,7 @@ print("Números primos encontrados:", primos)
 ```
 ---
 
-- ### 🔸Verificación
+### 🔸Verificación
 #### Fig 8: Caso de Prueba en el que se ingresa un numero entero positivo
 <p align="center">
 <img width="673" height="50" alt="image" src="https://github.com/user-attachments/assets/63d19e6b-ff7a-4a7c-8b84-fc5abfa7cd19" />
@@ -455,7 +455,7 @@ print("Números primos encontrados:", primos)
 
 ## 📦 Tareas Entregadas  
 
----
+
 
 ### 🏠Aprendizaje Autónomo (AA)  
 
@@ -467,5 +467,3 @@ print("Números primos encontrados:", primos)
 ### 🪴Aprendizaje Practico Experimental (APE)  
 - ✅ [**APE1: Aplicación de estructuras condicionales en la resolución de problemas.**](https://drive.google.com/file/d/1Rz85MmNwuCmvIG2LT5qjja1AGYhlRgCe/view?usp=sharing)  
 - ✅ [**APE2: Aplicación de estructuras repetitivas en la resolución de problemas.**](https://drive.google.com/file/d/1vtIfIIOYT4YPw6Ep0WKzO7BH3j1FeoY2/view?usp=sharing)  
-
-
