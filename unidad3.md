@@ -301,6 +301,6 @@ int main() {
 
 ### 🪴Aprendizaje Practico Experimental (APE)  
 - ✅ [**APE1: Construcción de funciones y procedimientos en un lenguaje de programación.**](https://drive.google.com/file/d/1T2wC6GtiAJBB3j37UKlwXFVD6YI18aTi/view?usp=sharing)  
-- ✅ [**APE2: Implementación de funciones utilizando el paso de parámetros por valor y por referencia:**](replitu3.c)
+- ✅ [**APE2: Implementación de funciones utilizando el paso de parámetros por valor y por referencia:**](replitu3.md)
 
 
