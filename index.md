@@ -33,8 +33,8 @@ _Estructuras condicionales y bucles repetitivos en C, Pyhton y Java._
 ---
 
 ## 📂 Unidad 3  
-_Por ver._  
-
+_Programación por módulos, por pase de parametros/referencia y arreglos._  
+## [Ir a la Unidad 3](unidad3.md)
 ---
 
 ## 📝 Conclusiones  
