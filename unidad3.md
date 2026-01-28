@@ -49,7 +49,94 @@ La modularidad permite:
 - Mejorar la **legibilidad y organización**
 - Detectar y corregir **errores** más rápidamente
 - Permitir el **trabajo en equipo** de forma más eficiente
+  
+## Ejemplo de Modularidad con Paso de Parámetros
 
+### Descripción
+El programa principal solicita tres calificaciones y las envía como parámetros a una función encargada de calcular el promedio.
+
+### Función modular
+La función recibe los valores, realiza el cálculo y devuelve el resultado.
+
+```
+#include <stdio.h>
+
+/* Función modular que recibe parámetros */
+float calcularPromedio(float nota1, float nota2, float nota3) {
+    float promedio;
+    promedio = (nota1 + nota2 + nota3) / 3;
+    return promedio;
+}
+
+int main() {
+    float calificacion1, calificacion2, calificacion3;
+    float resultado;
+
+    /* Entrada de datos */
+    printf("Ingrese la primera calificacion: ");
+    scanf("%f", &calificacion1);
+
+    printf("Ingrese la segunda calificacion: ");
+    scanf("%f", &calificacion2);
+
+    printf("Ingrese la tercera calificacion: ");
+    scanf("%f", &calificacion3);
+
+    /* Llamada al módulo pasando parámetros */
+    resultado = calcularPromedio(calificacion1, calificacion2, calificacion3);
+
+    /* Salida */
+    printf("El promedio es: %.2f\n", resultado);
+
+    return 0;
+}
+
+```
+
+----
+
+## Ejemplo de Modularidad con Paso de Referencias
+### Contexto del ejercicio
+
+Se desea desarrollar un programa que calcule el **promedio de tres calificaciones** de un estudiante aplicando el principio de **modularidad**.  
+Para ello, el cálculo se realizará en una **función independiente** que no devolverá un valor directamente, sino que **modificará una variable del programa principal mediante paso de referencia**.
+
+Este enfoque permite que la función tenga la capacidad de **alterar datos externos**, demostrando el uso de **punteros en el lenguaje C** y favoreciendo una mejor organización, reutilización y claridad del código.
+
+```
+#include <stdio.h>
+
+/* Función modular con paso de referencia */
+void calcularPromedio(float nota1, float nota2, float nota3, float *promedio) {
+    *promedio = (nota1 + nota2 + nota3) / 3;
+}
+
+int main() {
+    float calificacion1, calificacion2, calificacion3;
+    float resultado;
+
+    /* Entrada de datos */
+    printf("Ingrese la primera calificacion: ");
+    scanf("%f", &calificacion1);
+
+    printf("Ingrese la segunda calificacion: ");
+    scanf("%f", &calificacion2);
+
+    printf("Ingrese la tercera calificacion: ");
+    scanf("%f", &calificacion3);
+
+    /* Llamada a la función pasando la referencia */
+    calcularPromedio(calificacion1, calificacion2, calificacion3, &resultado);
+
+    /* Salida */
+    printf("El promedio es: %.2f\n", resultado);
+
+    return 0;
+}
+
+```
+
+---
 
 - ## 🔹 **Arreglos (teoría y un ejemplo para cadatipo de arreglo)**
 ### Arreglos en Programación
@@ -77,9 +164,9 @@ Ejemplo de posiciones:
 - Índice 2 → Tercer elemento  
 
 ### Tipos de arreglos
-- **Unidimensionales**: almacenan datos en una sola fila
-- **Bidimensionales**: organizan los datos en filas y columnas (matrices)
-- **Multidimensionales**: contienen más de dos dimensiones
+- **Unidimensionales**: almacenan datos en una sola fila.
+- **Bidimensionales**: organizan los datos en filas y columnas (matrices).
+- **Tridimensionales**: que pueden interpretarse como capas, filas y columnas.
 
 ### Ventajas de los arreglos
 - Facilitan el **manejo de grandes cantidades de datos**
@@ -89,6 +176,141 @@ Ejemplo de posiciones:
 ### Desventajas de los arreglos
 - Su tamaño suele ser **fijo**
 - No son ideales cuando se requiere **insertar o eliminar** elementos con frecuencia
+
+# Ejemplo de Arreglo Unidimensional
+### Contexto
+Se utiliza un arreglo unidimensional para almacenar y mostrar cinco calificaciones ingresadas por el usuario.
+### Código en C
+```
+#include <stdio.h>
+
+int main() {
+    int calificaciones[5];
+    int i;
+
+    for (i = 0; i < 5; i++) {
+        printf("Ingrese la calificacion %d: ", i + 1);
+        scanf("%d", &calificaciones[i]);
+    }
+
+    printf("\nCalificaciones ingresadas:\n");
+    for (i = 0; i < 5; i++) {
+        printf("%d ", calificaciones[i]);
+    }
+
+    return 0;
+}
+
+```
+📌 Uso principal: listas simples (edades, notas, precios).
+
+---
+
+# Ejemplo de Arreglo Bidimensional
+### Contexto
+
+Se utiliza un arreglo bidimensional para representar una matriz 2x3, útil para manejar datos organizados en filas y columnas.
+
+Código en C
+
+```
+#include <stdio.h>
+
+int main() {
+    int matriz[2][3];
+    int i, j;
+
+    for (i = 0; i < 2; i++) {
+        for (j = 0; j < 3; j++) {
+            printf("Ingrese el valor [%d][%d]: ", i, j);
+            scanf("%d", &matriz[i][j]);
+        }
+    }
+
+    printf("\nMatriz ingresada:\n");
+    for (i = 0; i < 2; i++) {
+        for (j = 0; j < 3; j++) {
+            printf("%d ", matriz[i][j]);
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+```
+📌 Uso principal: tablas, matrices matemáticas, registros organizados.
+
+---
+
+# Ejemplo de Arreglo Bidimensional
+### Contexto
+Se emplea un arreglo tridimensional para almacenar datos en tres dimensiones, por ejemplo: calificaciones de 2 estudiantes, en 2 materias, con 3 evaluaciones cada una.
+```
+#include <stdio.h>
+
+int main() {
+    int notas[2][2][3];
+    int i, j, k;
+
+    for (i = 0; i < 2; i++) {
+        for (j = 0; j < 2; j++) {
+            for (k = 0; k < 3; k++) {
+                printf("Estudiante %d, Materia %d, Evaluacion %d: ",
+                       i + 1, j + 1, k + 1);
+                scanf("%d", &notas[i][j][k]);
+            }
+        }
+    }
+
+    printf("\nNotas registradas:\n");
+    for (i = 0; i < 2; i++) {
+        for (j = 0; j < 2; j++) {
+            for (k = 0; k < 3; k++) {
+                printf("%d ", notas[i][j][k]);
+            }
+            printf("\n");
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+```
+# Ejemplo de Arreglo Tridimensional
+### Contexto
+Se emplea un arreglo tridimensional para almacenar datos en tres dimensiones, por ejemplo: calificaciones de 2 estudiantes, en 2 materias, con 3 evaluaciones cada una.
+```
+#include <stdio.h>
+
+int main() {
+    int notas[2][2][3];
+    int i, j, k;
+
+    for (i = 0; i < 2; i++) {
+        for (j = 0; j < 2; j++) {
+            for (k = 0; k < 3; k++) {
+                printf("Estudiante %d, Materia %d, Evaluacion %d: ",
+                       i + 1, j + 1, k + 1);
+                scanf("%d", &notas[i][j][k]);
+            }
+        }
+    }
+
+    printf("\nNotas registradas:\n");
+    for (i = 0; i < 2; i++) {
+        for (j = 0; j < 2; j++) {
+            for (k = 0; k < 3; k++) {
+                printf("%d ", notas[i][j][k]);
+            }
+            printf("\n");
+        }
+        printf("\n");
+    }
+
+    return 0;
+}
+```
+📌 Uso principal: simulaciones, datos complejos, estructuras de varios niveles.
 
 ---
 
