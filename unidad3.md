@@ -13,7 +13,7 @@
 
 ---
 
-- ## 🔹 **Modularidad (teoría y un ejemplo con pase de marametro por valor y uno por referencia)**
+- ## 🔹 **Modularidad**
 - 
 La **modularidad en la programación** es un principio que consiste en **dividir un programa grande en partes más pequeñas e independientes**, llamadas **módulos**, donde cada una cumple una función específica.
 
@@ -130,7 +130,7 @@ int main() {
 
 ---
 
-- ## 🔹 **Arreglos (teoría y un ejemplo para cadatipo de arreglo)**ión
+- ## 🔹 **Arreglos**
 
 Los **arreglos** (también llamados **arrays**) son estructuras de datos que permiten **almacenar múltiples valores del mismo tipo** bajo un solo nombre.
 
