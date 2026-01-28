@@ -1,3 +1,5 @@
+[Volver a Tareas entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-tareas-entregadas)
+```c
 #include <stdio.h>
 
 void calcularValorCliente(float *totalRecaudado);
@@ -59,3 +61,4 @@ void calcularValorCliente(float *totalRecaudado) {
 
     *totalRecaudado += valorCliente;
 }
+```
