@@ -7,8 +7,8 @@
 
 ## 📘 Contenidos de la Unidad
 [🔹 Modularidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-modularidad)  
-&nbsp;&nbsp;&nbsp;&nbsp;[🔸Ejemplo de Modularidad con Paso de Parámetros](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-par%C3%A1metros)  
-&nbsp;&nbsp;&nbsp;&nbsp;[🔸Ejemplo de Modularidad con Paso de Referencias](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-referencias)
+&nbsp;&nbsp;&nbsp;&nbsp;[🔸Modularidad con Paso de Parámetros](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-par%C3%A1metros)  
+&nbsp;&nbsp;&nbsp;&nbsp;[🔸Modularidad con Paso de Referencias](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-referencias)
       
 [🔹 Arreglos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-arreglos)  
 &nbsp;&nbsp;&nbsp;&nbsp;[🔸Ejemplo de Arreglo Unidimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-unidimensional)  
@@ -50,9 +50,14 @@ La modularidad permite:
 - Detectar y corregir **errores** más rápidamente
 - Permitir el **trabajo en equipo** de forma más eficiente
   
-## 🔸Ejemplo de Modularidad con Paso de Parámetros
+## 🔸Modularidad con Paso de Parámetros
 
-### Contexto
+La modularidad por paso de parámetros es una técnica de programación que consiste en dividir un programa en funciones o módulos independientes que se comunican entre sí mediante el envío de datos, conocidos como parámetros. Estos parámetros permiten que cada módulo reciba la información necesaria para realizar una tarea específica sin depender directamente de otras partes del programa.
+
+Este enfoque favorece la reutilización del código, mejora la organización del programa y facilita su mantenimiento y comprensión. Además, permite que las funciones sean más flexibles y fáciles de probar, ya que su comportamiento depende de los valores que reciben como entrada y no de variables globales.
+
+
+### Contexto del ejemplo
 
 El programa principal solicita tres calificaciones al usuario y las envía como **parámetros** a una **función modular**, la cual se encarga de realizar el cálculo del promedio y devolver el resultado al programa principal. Este enfoque permite separar el proceso de entrada de datos del cálculo, promoviendo un código más organizado, reutilizable y fácil de mantener.
 
@@ -94,7 +99,12 @@ int main() {
 
 ----
 
-## 🔸Ejemplo de Modularidad con Paso de Referencias
+## 🔸Modularidad con Paso de Referencias
+
+La modularidad por paso de referencias es una técnica de programación en la que los módulos o funciones reciben la dirección de memoria de las variables, en lugar de una copia de su valor. Esto permite que los cambios realizados dentro de una función afecten directamente a las variables originales utilizadas en el programa principal.
+
+Este tipo de modularidad es especialmente útil cuando se necesita modificar datos, compartir resultados entre funciones o trabajar con grandes volúmenes de información de manera eficiente. Además, fomenta una mejor estructuración del código, reduce el uso de variables globales y fortalece la interacción entre módulos sin perder claridad ni control sobre los datos.
+
 ### Contexto del ejercicio
 
 Se desea desarrollar un programa que calcule el **promedio de tres calificaciones** de un estudiante aplicando el principio de **modularidad**.  
