@@ -173,7 +173,7 @@ Ejemplo de posiciones:
 - Su tamaño suele ser **fijo**
 - No son ideales cuando se requiere **insertar o eliminar** elementos con frecuencia
 
-# 🔸Ejemplo de Arreglo Unidimensional
+## 🔸Ejemplo de Arreglo Unidimensional
 ### Contexto
 Se utiliza un arreglo unidimensional para almacenar y mostrar cinco calificaciones ingresadas por el usuario.
 ### Código en C
@@ -202,7 +202,7 @@ int main() {
 
 ---
 
-# 🔸Ejemplo de Arreglo Bidimensional
+## 🔸Ejemplo de Arreglo Bidimensional
 ### Contexto
 
 Se utiliza un arreglo bidimensional para representar una matriz 2x3, útil para manejar datos organizados en filas y columnas.
@@ -238,7 +238,7 @@ int main() {
 
 ---
 
-# 🔸Ejemplo de Arreglo Tridimensional
+## 🔸Ejemplo de Arreglo Tridimensional
 ### Contexto
 Se emplea un arreglo tridimensional para almacenar datos en tres dimensiones, por ejemplo: calificaciones de 2 estudiantes, en 2 materias, con 3 evaluaciones cada una.
 ```
