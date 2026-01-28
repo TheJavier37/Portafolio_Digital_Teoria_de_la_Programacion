@@ -13,9 +13,9 @@
   -[🔸Ejemplo de Arreglo Unidimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-unidimensional)  
   -[🔸Ejemplo de Arreglo Bidimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-bidimensional)  
   -[🔸Ejemplo de Arreglo Tridimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-tridimensional)  
--
--
--
+-[🔹 Principales dificultades en la aplicación de los contenidos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-principales-dificultades-en-la-aplicaci%C3%B3n-de-los-contenidos)  
+-[🔹 Reflexión crítica de los aprendizajes de la unidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-reflexi%C3%B3n-cr%C3%ADtica-de-los-aprendizajes-de-la-unidad)  
+-[📦 Tareas Entregadas](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-tareas-entregadas)  
 
 ---
 
@@ -297,7 +297,7 @@ int main() {
 ### 🏠Aprendizaje Autónomo (AA)  
 
 - ✅ [**AA1:**]()  
-- ✅ [**AA2:**]{)  
+- ✅ [**AA2:**]()  
 
 ---
 
