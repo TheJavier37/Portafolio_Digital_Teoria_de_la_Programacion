@@ -6,13 +6,13 @@
 ---
 
 ## 📘 Contenidos de la Unidad
-- [🔹 Modularidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-modularidad)
-  - [🔸Ejemplo de Modularidad con Paso de Parámetros](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-par%C3%A1metros)
-  - [🔸Ejemplo de Modularidad con Paso de Referencias](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-referencias)
--[🔹 Arreglos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-arreglos)
-  -[🔸Ejemplo de Arreglo Unidimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-unidimensional)
-  -[🔸Ejemplo de Arreglo Bidimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-bidimensional)
-  -[🔸Ejemplo de Arreglo Tridimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-tridimensional)
+- [🔹 Modularidad](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-modularidad)  
+  - [🔸Ejemplo de Modularidad con Paso de Parámetros](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-par%C3%A1metros)  
+  - [🔸Ejemplo de Modularidad con Paso de Referencias](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-modularidad-con-paso-de-referencias)  
+-[🔹 Arreglos](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#-arreglos)  
+  -[🔸Ejemplo de Arreglo Unidimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-unidimensional)  
+  -[🔸Ejemplo de Arreglo Bidimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-bidimensional)  
+  -[🔸Ejemplo de Arreglo Tridimensional](https://github.com/TheJavier37/Portafolio_Digital_Teoria_de_la_Programacion/blob/main/unidad3.md#ejemplo-de-arreglo-tridimensional)  
 -
 -
 -
@@ -239,40 +239,6 @@ int main() {
 ---
 
 # 🔸Ejemplo de Arreglo Tridimensional
-### Contexto
-Se emplea un arreglo tridimensional para almacenar datos en tres dimensiones, por ejemplo: calificaciones de 2 estudiantes, en 2 materias, con 3 evaluaciones cada una.
-```
-#include <stdio.h>
-
-int main() {
-    int notas[2][2][3];
-    int i, j, k;
-
-    for (i = 0; i < 2; i++) {
-        for (j = 0; j < 2; j++) {
-            for (k = 0; k < 3; k++) {
-                printf("Estudiante %d, Materia %d, Evaluacion %d: ",
-                       i + 1, j + 1, k + 1);
-                scanf("%d", &notas[i][j][k]);
-            }
-        }
-    }
-
-    printf("\nNotas registradas:\n");
-    for (i = 0; i < 2; i++) {
-        for (j = 0; j < 2; j++) {
-            for (k = 0; k < 3; k++) {
-                printf("%d ", notas[i][j][k]);
-            }
-            printf("\n");
-        }
-        printf("\n");
-    }
-
-    return 0;
-}
-```
-# Ejemplo de Arreglo Tridimensional
 ### Contexto
 Se emplea un arreglo tridimensional para almacenar datos en tres dimensiones, por ejemplo: calificaciones de 2 estudiantes, en 2 materias, con 3 evaluaciones cada una.
 ```
