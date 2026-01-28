@@ -58,7 +58,7 @@ La modularidad permite:
 El programa principal solicita tres calificaciones al usuario y las envía como **parámetros** a una **función modular**, la cual se encarga de realizar el cálculo del promedio y devolver el resultado al programa principal. Este enfoque permite separar el proceso de entrada de datos del cálculo, promoviendo un código más organizado, reutilizable y fácil de mantener.
 
 
-```
+```c
 #include <stdio.h>
 
 /* Función modular que recibe parámetros */
