@@ -16,7 +16,7 @@
 ---
 
 - ## 🔹 **Modularidad**
-- 
+
 La **modularidad en la programación** es un principio que consiste en **dividir un programa grande en partes más pequeñas e independientes**, llamadas **módulos**, donde cada una cumple una función específica.
 
 En lugar de tener todo el código en un solo bloque, se organiza en componentes bien definidos como **funciones, clases, archivos o paquetes**.
@@ -44,13 +44,12 @@ La modularidad permite:
 - Detectar y corregir **errores** más rápidamente
 - Permitir el **trabajo en equipo** de forma más eficiente
   
-## Ejemplo de Modularidad con Paso de Parámetros
+## 🔸Ejemplo de Modularidad con Paso de Parámetros
 
-### Descripción
-El programa principal solicita tres calificaciones y las envía como parámetros a una función encargada de calcular el promedio.
+### Contexto
 
-### Función modular
-La función recibe los valores, realiza el cálculo y devuelve el resultado.
+El programa principal solicita tres calificaciones al usuario y las envía como **parámetros** a una **función modular**, la cual se encarga de realizar el cálculo del promedio y devolver el resultado al programa principal. Este enfoque permite separar el proceso de entrada de datos del cálculo, promoviendo un código más organizado, reutilizable y fácil de mantener.
+
 
 ```
 #include <stdio.h>
@@ -89,7 +88,7 @@ int main() {
 
 ----
 
-## Ejemplo de Modularidad con Paso de Referencias
+## 🔸Ejemplo de Modularidad con Paso de Referencias
 ### Contexto del ejercicio
 
 Se desea desarrollar un programa que calcule el **promedio de tres calificaciones** de un estudiante aplicando el principio de **modularidad**.  
@@ -170,7 +169,7 @@ Ejemplo de posiciones:
 - Su tamaño suele ser **fijo**
 - No son ideales cuando se requiere **insertar o eliminar** elementos con frecuencia
 
-# Ejemplo de Arreglo Unidimensional
+# 🔸Ejemplo de Arreglo Unidimensional
 ### Contexto
 Se utiliza un arreglo unidimensional para almacenar y mostrar cinco calificaciones ingresadas por el usuario.
 ### Código en C
@@ -199,7 +198,7 @@ int main() {
 
 ---
 
-# Ejemplo de Arreglo Bidimensional
+# 🔸Ejemplo de Arreglo Bidimensional
 ### Contexto
 
 Se utiliza un arreglo bidimensional para representar una matriz 2x3, útil para manejar datos organizados en filas y columnas.
@@ -235,7 +234,7 @@ int main() {
 
 ---
 
-# Ejemplo de Arreglo Bidimensional
+# 🔸Ejemplo de Arreglo Bidimensional
 ### Contexto
 Se emplea un arreglo tridimensional para almacenar datos en tres dimensiones, por ejemplo: calificaciones de 2 estudiantes, en 2 materias, con 3 evaluaciones cada una.
 ```
