@@ -20,15 +20,9 @@
 
 ---
 
-- ## 🔹 **Modularidad (teoría y un ejemplo con pase de marametro por valor y uno por referencia)
-**
+- ## 🔹 **Modularidad (teoría y un ejemplo con pase de marametro por valor y uno por referencia)**
 
 - ## 🔹 **Arreglos (teoría y un ejemplo para cadatipo de arreglo)**
- 
-- ## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
-
-- ## 🔹 **Estructuras condicionales (tipos y ejercicios en diagrama de flujo y en C)**
-
 
 
 ---
