@@ -28,13 +28,13 @@ La **modularidad en la programación** es un principio que consiste en **dividir
 
 En lugar de tener todo el código en un solo bloque, se organiza en componentes bien definidos como **funciones, clases, archivos o paquetes**.
 
-### ¿Qué es un módulo?
+### 🗃️ ¿Qué es un módulo?
 Un **módulo** es una pieza de código que:
 - Tiene una **responsabilidad clara**
 - Puede **usarse, probarse o modificarse** sin afectar todo el programa
 - Se comunica con otros módulos mediante **interfaces claras**
 
-### Ejemplo sencillo
+### 🗳️ Ejemplo sencillo
 En una aplicación típica se pueden tener:
 - Módulo de **inicio de sesión**
 - Módulo de **cálculos**
@@ -43,7 +43,7 @@ En una aplicación típica se pueden tener:
 
 Cada módulo cumple su función específica sin interferir con los demás.
 
-### Importancia de la modularidad
+### 📦 Importancia de la modularidad
 La modularidad permite:
 - Facilitar el **mantenimiento** del código
 - Promover la **reutilización** de componentes
