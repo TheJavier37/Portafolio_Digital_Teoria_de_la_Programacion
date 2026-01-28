@@ -9,9 +9,6 @@
 - **📅 Ciclo:** Ciclo 1  
 - **🗓️ Período Académico:** 2025 - 2026  
 
-
-
-
 _Un recorrido por los fundamentos y aplicaciones de la programación como disciplina académica._  
 
 ---
@@ -39,6 +36,14 @@ _Programación por módulos, por pase de parametros/referencia y arreglos._
 
 ## 📝 Conclusiones  
 _Síntesis de aprendizajes, logros alcanzados y retos identificados durante el proceso._  
+
+🧗 Durante la Unidad 1 se dio el primer acercamiento formal a la lógica de programación, aprendiendo a descomponer problemas y expresarlos de manera estructurada mediante pseudocódigo y PSeInt. Este proceso permitió desarrollar el pensamiento lógico paso a paso antes de escribir código, facilitando la comprensión del lenguaje C como una herramienta para materializar soluciones previamente analizadas. Esta unidad fue clave para sentar las bases del razonamiento algorítmico y la disciplina en la programación.  
+
+🧗 En la Unidad 2 se fortaleció la capacidad de tomar decisiones y controlar la ejecución de los programas mediante estructuras condicionales y bucles repetitivos. El trabajo con C, Python y Java permitió comprender que, aunque la sintaxis cambia, la lógica se mantiene, lo que ayudó a pensar los algoritmos de forma más abstracta y flexible. Esta unidad representó un avance significativo en la resolución de problemas, al permitir automatizar procesos y optimizar soluciones.  
+
+🧗A lo largo de la Unidad 3 se alcanzó un mayor orden en la forma de programar, incorporando el uso de módulos, el paso de parámetros por valor y por referencia, y el manejo de arreglos. Estos conocimientos permitieron estructurar mejor los programas, mejorar la reutilización del código y comprender la importancia de la organización y eficiencia. Esta unidad consolidó una visión más profesional de la programación, orientada al desarrollo de soluciones claras, mantenibles y escalables.  
+
+💖 Durante todo este Ciclo I, en esta asignatura he aprendido bastante sobre lo mencionado, estoy agradecido, espero poder explotar y expandir estos conocimientos en mi futura trayectoria, este portafolio queda como evidencia y apoyo de lo trabajado.  
 
 ---
 
